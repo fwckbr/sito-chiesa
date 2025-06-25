@@ -14,7 +14,3 @@ https://www.chiesaevangelicailfaro.it/
 ## Riferimento originale
 Il sito è stato realizzato cercando di replicare il più fedelmente possibile il sito originale:  
 http://www.keithhudson.org/#hudson-ministries
-"# sito-chiesa" 
-# sito-chiesa
-# sito-chiesa
->>>>>>> 7f322e1 (Sua mensagem de commit aqui)
