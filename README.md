@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# sito-chiesa
-=======
 # Clone sito web "Hudson Ministres"
 
 Sito di una chiesa americana, adattato in italiano per la chiesa evangelica "Il Faro":  
